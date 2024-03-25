@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 #include <cmath>
 #include <vector>
-using namespace std;
+using namespace std; //dflkgjflkdhjtfjlhjfglkhjfg
 
 int checkTrgl(int firstSd, int secondSd, int thirdSd) { //сверка подходящих сторон
 	vector <int> sumSds = {firstSd + secondSd, firstSd + thirdSd, secondSd + thirdSd };
